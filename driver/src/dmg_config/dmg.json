@@ -1,0 +1,15 @@
+{
+  "title": "Hive Battery",
+  "icon-size": 128,
+  "background": "./bg.tiff",
+  "window": {
+    "size": {
+      "width": 550,
+      "height": 350
+    }
+  },
+  "contents": [
+    { "x": 360, "y": 136, "type": "link", "path": "/Applications" },
+    { "x": 136, "y": 136, "type": "file", "path": "../dist/Hive Battery.app" }
+  ]
+}
